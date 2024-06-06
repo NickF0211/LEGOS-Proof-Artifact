@@ -1,0 +1,2 @@
+raw_finish_time, proof_generation_time, proof_checking_time, raw_proof_size, raw_derivation_steps, trimmed_proof_size, trimmed_derivation_steps
+0.08745765686035156, 0.13130497932434082, 0.08842682838439941, 256489, 664, 104259, 137
