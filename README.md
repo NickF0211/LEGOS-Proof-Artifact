@@ -9,7 +9,7 @@ Diagnosis via Proofs of Unsatisfiability for First-Order Logic with Relational O
 
 
 ###  Structure
-    1. Analyzer contains the implementation of the FOL* satisfiability checeker and FOL* proof checker 
-    2. Sleec contains the implemenation of the normative requirement analyzer SLEEC-LEGOS.
+    1. Analyzer contains the implementation of the FOL* satisfiability checeker and FOL* proof checker. 
+    2. Sleec contains the implemenation of the normative requirement analyzer, SLEEC-LEGOS.
     3. CaseStudies contains the source files used for the evaluations and the evaluation results.
-    4. Supplementary.pdf contains the additional techique information about the submission.
+    4. Supplementary.pdf contains an extended version of the submission with additional technical details.
